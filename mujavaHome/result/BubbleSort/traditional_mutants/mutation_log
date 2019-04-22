@@ -1,0 +1,5 @@
+AORS_1:13:int_BubbleSort(int):i++ => i--
+AORS_2:14:int_BubbleSort(int):j++ => j--
+AOIU_1:16:int_BubbleSort(int):j => -j
+AOIU_2:17:int_BubbleSort(int):j => -j
+AOIU_3:18:int_BubbleSort(int):temp => -temp
